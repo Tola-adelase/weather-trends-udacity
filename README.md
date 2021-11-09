@@ -1,2 +1,2 @@
-# weather-trends-udacityproject
- Analyzing local and global temperature data. (Udacity Nano degree project 1)
+# weather-trends-udacity
+In this project, I analyzed local and global temperature data and compared the temperature trends of the nearest city where I live (London) to/with the overall global temperature trends. The objective(s) of this project is to create a visualization and note the similarities and differences between global temperature trends and temperature trends of the nearest city where I live (London).
